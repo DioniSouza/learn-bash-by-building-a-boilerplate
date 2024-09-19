@@ -318,3 +318,4 @@ mv roboto.woff fonts/
 id
 find
 mv lato.ttf ./fonts
+mv menlo.otf ./fonts/

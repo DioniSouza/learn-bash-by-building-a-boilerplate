@@ -356,3 +356,6 @@ mv header.png ..
 ls --color=auto
 cd ..
 ls --color=auto
+fin -name images/
+find -name images/
+find -name images

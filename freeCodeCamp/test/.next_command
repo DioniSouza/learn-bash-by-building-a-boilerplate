@@ -121,3 +121,5 @@ echo hello webite
 echo hello website
 touch index,html
 touch index.html
+rm index,html
+touch styles.css

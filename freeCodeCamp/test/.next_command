@@ -130,3 +130,4 @@ ls --color=auto
 list --help
 ls --color=auto --help
 ls --color=auto --all -a
+cd .

@@ -140,3 +140,5 @@ rm roboo.font
 cd ..
 cd website/
 touch roboto.font
+touchlato.font
+touch lato.font

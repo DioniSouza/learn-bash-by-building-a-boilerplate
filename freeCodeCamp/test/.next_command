@@ -473,3 +473,4 @@ ls --color=auto
 onts
 mkdir fonts
 rm -r fonts
+ls --color=auto

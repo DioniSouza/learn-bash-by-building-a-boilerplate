@@ -463,3 +463,13 @@ cd ..
 rmdir fonts/
 ls --color=auto
 rm --help
+mkdir fonts
+rmdir fonts -r
+ls --color=auto
+rmdir -r fonts/
+rmdir -R fonts/
+rmdir fonts
+ls --color=auto
+onts
+mkdir fonts
+rm -r fonts

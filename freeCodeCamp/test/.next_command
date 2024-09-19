@@ -59,3 +59,6 @@ more node_modules/
 ls --color=auto
 cd node_modules/
 ls --color=auto
+ls --color=auto
+ls --color=auto node_modules -l
+ls --color=auto -l

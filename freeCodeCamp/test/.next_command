@@ -342,3 +342,4 @@ mkdir imag
 rmdir imag/
 mkdir images
 cd images/
+touch background.jpg

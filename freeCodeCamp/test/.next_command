@@ -317,3 +317,4 @@ ls --color=auto
 mv roboto.woff fonts/
 id
 find
+mv lato.ttf ./fonts

@@ -494,3 +494,4 @@ ls --color=auto
 rm website/ website-boilerplate
 rm website website-boilerplate
 mv website website-boilerplate
+ls --color=auto

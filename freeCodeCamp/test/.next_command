@@ -480,3 +480,4 @@ touch README.md
 ls --color=auto
 echo yay!
 echo Yay!
+echo I finished the boilerplate!

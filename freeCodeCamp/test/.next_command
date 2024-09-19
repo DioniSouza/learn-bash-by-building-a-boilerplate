@@ -119,3 +119,5 @@ pwd hello web
 pwd hello website
 echo hello webite
 echo hello website
+touch index,html
+touch index.html

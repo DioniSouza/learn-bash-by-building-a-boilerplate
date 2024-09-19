@@ -495,3 +495,5 @@ rm website/ website-boilerplate
 rm website website-boilerplate
 mv website website-boilerplate
 ls --color=auto
+help
+cp --help

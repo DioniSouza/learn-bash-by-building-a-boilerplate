@@ -100,3 +100,5 @@ ls --color=auto
 pwd
 cd /test
 ls --color=auto
+ls --color=auto
+more index.js

@@ -338,3 +338,6 @@ find
 cd client/
 mkdir assets
 cd assets/
+mkdir imag
+rmdir imag/
+mkdir images

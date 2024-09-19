@@ -341,3 +341,4 @@ cd assets/
 mkdir imag
 rmdir imag/
 mkdir images
+cd images/

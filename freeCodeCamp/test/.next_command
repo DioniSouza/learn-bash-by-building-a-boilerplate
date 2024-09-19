@@ -114,3 +114,8 @@ __vsc_prompt_cmd_original
 ls --color=auto
 cd website/
 ls --color=auto
+pwd
+pwd hello web
+pwd hello website
+echo hello webite
+echo hello website

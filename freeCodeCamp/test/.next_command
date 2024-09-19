@@ -319,3 +319,5 @@ id
 find
 mv lato.ttf ./fonts
 mv menlo.otf ./fonts/
+__vsc_prompt_cmd_original
+find

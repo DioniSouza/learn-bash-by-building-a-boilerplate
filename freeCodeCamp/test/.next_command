@@ -343,3 +343,9 @@ rmdir imag/
 mkdir images
 cd images/
 touch background.jpg
+cd ..
+cd../..
+cd ../..
+ls --color=auto
+cd client/assets/images/
+cd ../../..
